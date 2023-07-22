@@ -1,4 +1,4 @@
-import java.util.Arrays;
+package medium;
 
 /**
  * 7. 整数反转
