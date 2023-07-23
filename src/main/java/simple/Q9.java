@@ -1,5 +1,7 @@
 package simple;
 
+import java.util.Arrays;
+
 /**
  * 7. 回文数
  *
@@ -15,6 +17,15 @@ public class Q9 {
     }
 
     public static void main(String[] args) {
+        int[][] x = {{1, 2}, {1, 5}, {3, 15}, {4, 8}};
+//        Arrays.sort(x, (a,b) -> {
+//            if (a[0] == b[0]) {
+//                return b[1] - a[1];
+//            }
+//            return a[0] - b[0];
+//        });
+        Arrays.sort(x);
+        System.out.println(Arrays.deepToString(x));
     }
 }
 
