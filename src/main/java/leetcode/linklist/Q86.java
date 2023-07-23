@@ -1,4 +1,4 @@
-package simple;
+package leetcode.linklist;
 
 /**
  * 86. 分隔链表

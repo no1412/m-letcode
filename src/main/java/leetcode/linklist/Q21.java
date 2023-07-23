@@ -1,4 +1,4 @@
-package simple;
+package leetcode.linklist;
 
 import java.util.Arrays;
 import java.util.List;
