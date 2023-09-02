@@ -23,7 +23,7 @@ import javax.swing.tree.TreeNode;
  * <p>
  * <p>
  * 来源：力扣（LeetCode）
- * 链接：<a href="https://leetcode.cn/problems/maximum-depth-of-binary-tree/">...</a>
+ * 链接：<a href="https://leetcode.cn/problems/maximum-depth-of-binary-tree/">104 二叉树的最大深度</a>
  * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  *
  * @author ll
